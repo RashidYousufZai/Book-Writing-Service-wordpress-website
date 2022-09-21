@@ -34,7 +34,7 @@ hr{
     margin: auto;
 }
 .hero{
-    background: url(/assets/images/home-banner1.jpg) no-repeat;
+    background: url(/assets/images/home-banner.webp) no-repeat;;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
